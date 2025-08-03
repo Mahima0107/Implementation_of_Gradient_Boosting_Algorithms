@@ -8,7 +8,6 @@ Handles mixed data types well
 Works effectively with small-to-medium datasets
 Supports regularization to avoid overfitting
 
-
 The Breast Cancer dataset enables a comprehensive analysis of breast cancer risk across various demographic, biological, and clinical attributes. Though demographic features are limited, the medical features provide strong indicators of cancer type and severity. When applied to the Breast Cancer Wisconsin (Diagnostic) dataset, it demonstrates high classification accuracy and the ability to uncover complex patterns in tumor features.
 
 In this dataset There are 32 columns and 569 rows.
