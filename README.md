@@ -8,14 +8,12 @@ Gradient Boosting is a powerful machine learning technique used for both classif
 * In this dataset There are 32 columns and 569 rows.
 * I used Gradient Boosting Algorithms , Scikit-learn , pandas , matplotlib and seaborn library for Data Cleaning: pandas provides tools to handle missing values, duplicates, and inconsistent data entries. Data Transformation: With functions like groupby(), pivot_table(), and merge() , pandas facilitates complex data transformations.
 
-The Breast Cancer dataset enables a comprehensive analysis of breast cancer risk across various demographic, biological, and clinical attributes. Though demographic features are limited, the medical features provide strong indicators of cancer type and severity. When applied to the Breast Cancer Wisconsin (Diagnostic) dataset, it demonstrates high classification accuracy and the ability to uncover complex patterns in tumor features.
-
 🔍 Objective
 * The primary goal is to predict whether a tumor is benign or malignant based on cell nucleus features.
 * Gradient Boosting helps identify subtle differences in feature values that correlate with cancer diagnosis.
 
-Feature Description
-This dataset contains diagnostic features computed from breast mass images to classify tumors as benign (B) or malignant (M) with high accuracy. Each sample represents measurements from a digitized image of a fine needle aspirate (FNA) of a breast mass. The Breast Cancer dataset includes 30 numeric features derived from cell nuclei images. These features are grouped into mean, standard error, and worst (maximum) values for various cellular properties.
+🔍 Key Insights
+* The Breast Cancer dataset enables a comprehensive analysis of breast cancer risk across various demographic, biological, and clinical attributes. Though demographic features are limited, the medical features     provide strong indicators of cancer type and severity. When applied to the Breast Cancer Wisconsin (Diagnostic) dataset, it demonstrates high classification accuracy and the ability to uncover complex patterns    in tumor features.Feature Description : This dataset contains diagnostic features computed from breast mass images to classify tumors as benign (B) or malignant (M) with high accuracy. Each sample represents      measurements from a digitized image of a fine needle aspirate (FNA) of a breast mass. The Breast Cancer dataset includes 30 numeric features derived from cell nuclei images. These features are grouped into mean,  standard error, and worst (maximum) values for various cellular properties.
 
 🔍 Model Insights:
 * Accuracy Achieved: 96%, showcasing excellent classification performance.
