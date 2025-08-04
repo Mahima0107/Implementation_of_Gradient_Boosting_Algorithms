@@ -21,7 +21,7 @@ Gradient Boosting is a powerful machine learning technique used for both classif
 * AUC Score: Greater than 0.98, indicating excellent class separation capability
 
 💡 Conclusion
-Gradient Boosting proved to be a reliable and interpretable model for breast cancer classification. It leverages the detailed feature set in the dataset to deliver accurate predictions, making it a valuable tool in early cancer detection and clinical decision support systems.
+* Gradient Boosting proved to be a reliable and interpretable model for breast cancer classification. It leverages the detailed feature set in the dataset to deliver accurate predictions, making it a valuable tool in early cancer detection and clinical decision support systems.
 
 
 
